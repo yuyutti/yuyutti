@@ -1,2 +1,1 @@
-
-![ゆゆっちいっぱい](https://user-images.githubusercontent.com/75851215/158383449-86b9161e-08e4-4e8e-b415-2e5b2720b390.png)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yuyutti)
